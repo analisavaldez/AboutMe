@@ -8,3 +8,5 @@ I am a transfer student
 Bagels are my favorite food
 
 My favorite color is orange
+
+I like to ride my bike
